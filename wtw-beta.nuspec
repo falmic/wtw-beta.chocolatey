@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>wtw-beta</id>
+    <title>WTW Beta Release</title>
+    <version>2014.02.03</version>
+    <authors>Kaworu</authors>
+    <owners>falmic</owners>
+    <summary></summary>
+    <description>WTW is a multi-protocol instant messaging client for Windows.</description>
+    <projectUrl>http://wtw.im</projectUrl>
+    <tags>wtw im messenger chat facebook gadu-gadu skype jabber tlen</tags>
+    <copyright></copyright>
+    <licenseUrl>https://raw2.github.com/falmic/wtw.chocolatey/master/license.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://raw2.github.com/falmic/wtw.chocolatey/master/wtw.png</iconUrl>
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

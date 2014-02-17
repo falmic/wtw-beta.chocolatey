@@ -1,0 +1,1 @@
+Install-ChocolateyPackage 'wtw' 'exe' '/S' 'http://minefield.k2t.eu/wtf/Beta/wtw-beta-20140203.exe'
